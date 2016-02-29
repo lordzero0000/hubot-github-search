@@ -1,0 +1,27 @@
+{
+  "name": "hubot-github-trends",
+  "description": "A hubot script to show what's hot on github.",
+  "version": "0.1.0",
+  "author": "Irving Gómez<lordzero0000@gmail.com>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lordzero0000/hubot-github-trends.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/lordzero0000/hubot-github-trends/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "main": "index.coffee",
+}
